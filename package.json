@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/kraftwer1/broccoli-react-templates",
   "dependencies": {
-      "react-templates": "0.1.14",
-      "broccoli-filter": "0.1.10"
+      "react-templates": "0.4.1",
+      "broccoli-filter": "1.2.3"
   }
 }
